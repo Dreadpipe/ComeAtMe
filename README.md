@@ -9,12 +9,13 @@ Completed:
 - [x] - brawlers.js initialized with dummy data
 - [x] - server.js initialized, returns response
 - [x] - node_modules initialized
+- [x] - Populate HTML with dirty dirty bootstrap
+- [x] - Dig into modals - jQuery works fine - may try fading/hide/show
 
 To Do:
-- [] - Populate HTML with dirty dirty bootstrap
+
 - [] - Edit HTML/CSS to actually customize the damn thing
 - [] - Figure out compatibility logic (shit)
-- [] - Dig into modals
 - [] - Test, Debug
 - [] - Complete readMe
 - [] - Deploy to Heroku
