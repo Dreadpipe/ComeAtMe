@@ -11,11 +11,12 @@ Completed:
 - [x] - node_modules initialized
 - [x] - Populate HTML with dirty dirty bootstrap
 - [x] - Dig into modals - jQuery works fine - may try fading/hide/show
+- [] - Figure out compatibility logic (pending)
 
 To Do:
 
 - [] - Edit HTML/CSS to actually customize the damn thing
-- [] - Figure out compatibility logic (shit)
+
 - [] - Test, Debug
 - [] - Complete readMe
 - [] - Deploy to Heroku
